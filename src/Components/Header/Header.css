@@ -1,0 +1,13 @@
+.jumbotron{
+    color: #fff;
+    background:url("./img/jumbotron-bgr.jpg")!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+   
+}
+.jumbotron span:first-child{
+    color: red;
+}
+.jumbotron span:last-child{
+    color: green;
+}
